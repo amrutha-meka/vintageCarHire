@@ -1,0 +1,81 @@
+html{
+    background-color: beige;  
+}
+
+h3{
+    font-family: Cursive, Times, serif;
+    color:rgb(42, 228, 212);
+    font-size: 2em;
+}
+
+/* nav bar css */
+.imglogo{
+    height: 100px;
+}
+nav{
+    background-color: rgb(253, 209, 143);
+}
+nav li{
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    float: right;
+    font-style: oblique;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+/* header styling */
+header{
+    color: rgb(39, 139, 126);
+    font-size: 2.5em !important;
+}
+/* Cars Section CSS */
+.card{
+    border-radius: 11% !important;
+    border:2px solid rgb(148, 145, 145);
+}
+
+img{
+    height:200px;
+    border-top-left-radius: 15% !important;
+    border-top-right-radius: 15% !important;
+}
+/* Form CSS */
+form{
+    background-color: rgb(168, 166, 137);
+}
+
+.form-group label{
+    font-size: 1.2em;
+    font-weight: bold;
+    color:rgb(5, 83, 97);
+}
+.form-group button{
+    background-color:rgb(5, 83, 97) !important ;
+    color:white;
+}
+.form-group .form-text{
+    color: black;
+}
+
+/* Address CSS */
+address{
+    font-size: 1.2em;
+    margin-top: 2%;
+}
+
+/* Back to top link CSS */
+.linktotop{
+    text-align: right;
+    font-size: 22px;
+}
+
+/* footer CSS */
+footer {
+    display: block;
+    color: #012980;
+    text-align: center;
+    bottom: -44px;
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+}
